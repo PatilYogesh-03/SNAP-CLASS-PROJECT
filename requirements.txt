@@ -12,4 +12,7 @@ bcrypt
 segno
 pillow
 
-streamlit
+streamlits
+
+librosa
+resemblyzer
