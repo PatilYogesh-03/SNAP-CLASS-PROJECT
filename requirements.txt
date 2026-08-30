@@ -1,3 +1,5 @@
+streamlit
+
 numpy
 pandas
 
@@ -12,7 +14,7 @@ bcrypt
 segno
 pillow
 
-streamlits
+
 
 librosa
 resemblyzer
